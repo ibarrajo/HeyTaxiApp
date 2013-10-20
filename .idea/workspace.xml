@@ -24,15 +24,28 @@
     </option>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="adab2d19-8498-4b04-bf31-7e09ffd2bee6" name="Default" comment="" />
+    <list default="true" id="adab2d19-8498-4b04-bf31-7e09ffd2bee6" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/elninja/gotaxi/AppInterface.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-hdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/res/drawable-hdpi/ic_launcher.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-mdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/res/drawable-mdpi/ic_launcher.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-xhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/ic_launcher.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-xxhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/res/drawable-xxhdpi/ic_launcher.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidManifest.xml" afterPath="$PROJECT_DIR$/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/elninja/gotaxi/GPSActivity.java" afterPath="$PROJECT_DIR$/src/com/elninja/gotaxi/GPSActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/elninja/gotaxi/MainActivity.java" afterPath="$PROJECT_DIR$/src/com/elninja/gotaxi/MainActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project.properties" afterPath="$PROJECT_DIR$/project.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values/strings.xml" afterPath="$PROJECT_DIR$/res/values/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="gotaxi.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/main.xml" changelist="adab2d19-8498-4b04-bf31-7e09ffd2bee6" time="1382168249210" ignored="false" />
-    <file path="/MainActivity.java" changelist="adab2d19-8498-4b04-bf31-7e09ffd2bee6" time="1382168047747" ignored="false" />
+    <file path="/MainActivity.java" changelist="adab2d19-8498-4b04-bf31-7e09ffd2bee6" time="1382297427902" ignored="false" />
     <file path="/fragment.java" changelist="adab2d19-8498-4b04-bf31-7e09ffd2bee6" time="1382203210208" ignored="false" />
-    <file path="/strings.xml" changelist="adab2d19-8498-4b04-bf31-7e09ffd2bee6" time="1382168228667" ignored="false" />
+    <file path="/strings.xml" changelist="adab2d19-8498-4b04-bf31-7e09ffd2bee6" time="1382248753551" ignored="false" />
     <file path="/Dummy.txt" changelist="adab2d19-8498-4b04-bf31-7e09ffd2bee6" time="1382214317421" ignored="false" />
-    <file path="/GPSActivity.java" changelist="adab2d19-8498-4b04-bf31-7e09ffd2bee6" time="1382212425233" ignored="false" />
+    <file path="/GPSActivity.java" changelist="adab2d19-8498-4b04-bf31-7e09ffd2bee6" time="1382215230569" ignored="false" />
+    <file path="/AppInterface.java" changelist="adab2d19-8498-4b04-bf31-7e09ffd2bee6" time="1382302696587" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +109,7 @@
       <file leaf-file-name="MainActivity.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/elninja/gotaxi/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="0" selection-start="323" selection-end="366" vertical-scroll-proportion="0.0">
+            <state line="34" column="21" selection-start="956" selection-end="956" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -104,25 +117,33 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GPSActivity.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/elninja/gotaxi/GPSActivity.java">
+      <file leaf-file-name="AppInterface.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/elninja/gotaxi/AppInterface.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="60" selection-start="738" selection-end="738" vertical-scroll-proportion="-14.96">
+            <state line="57" column="6" selection-start="1648" selection-end="1648" vertical-scroll-proportion="0.0">
               <folding>
-                <element signature="e#547#1392#0" expanded="true" />
-                <element signature="e#1381#1382#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GPSTracker.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="GPSTracker.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/elninja/gotaxi/GPSTracker.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="54" column="48" selection-start="1604" selection-end="1604" vertical-scroll-proportion="0.23966943">
+            <state line="93" column="42" selection-start="3629" selection-end="3629" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="35" selection-start="180" selection-end="180" vertical-scroll-proportion="0.14049587">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -133,6 +154,11 @@
     <FindUsagesManager>
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="KEY_STORE_PATH" value="C:\Users\Josue\Desktop\elninja.com.keystore" />
+    <option name="KEY_ALIAS" value="el ninja" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -146,12 +172,14 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/src/GPSTracker.java" />
-        <option value="$PROJECT_DIR$/res/values/strings.xml" />
-        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/res/layout/main.xml" />
         <option value="$PROJECT_DIR$/res/layout/gps_activity.xml" />
-        <option value="$PROJECT_DIR$/src/com/elninja/gotaxi/MainActivity.java" />
         <option value="$PROJECT_DIR$/src/com/elninja/gotaxi/GPSActivity.java" />
+        <option value="$PROJECT_DIR$/src/com/elninja/gotaxi/MapPane.java" />
+        <option value="$PROJECT_DIR$/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/src/com/elninja/gotaxi/AppInterface.java" />
+        <option value="$PROJECT_DIR$/src/com/elninja/gotaxi/MainActivity.java" />
       </list>
     </option>
   </component>
@@ -290,13 +318,17 @@
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="ExportedApkPath" value="C:\Users\Josue\Desktop\gotaxiapp\gotaxi.apk" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="options.lastSelected" value="preferences.keymap" />
+    <property name="ExportedModule" value="gotaxi" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../elninja.com.keystore" />
     <property name="AndroidLayoutSelectedEditor" value="text-editor" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="AndroidRunProguardForReleaseBuild" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
     <property name="MemberChooser.showClasses" value="true" />
@@ -578,49 +610,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="39" selection-start="134" selection-end="134" vertical-scroll-proportion="0.14049587">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="96" selection-start="217" selection-end="535" vertical-scroll-proportion="0.18732782">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="53" selection-start="266" selection-end="266" vertical-scroll-proportion="0.30177516">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/elninja/gotaxi/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="323" selection-end="366" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/elninja/gotaxi/GPSActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="60" selection-start="738" selection-end="738" vertical-scroll-proportion="-14.96">
-          <folding>
-            <element signature="e#547#1392#0" expanded="true" />
-            <element signature="e#1381#1382#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/gps_activity.xml">
       <provider editor-type-id="android-designer">
         <state />
@@ -631,12 +620,63 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/elninja/gotaxi/GPSTracker.java">
+    <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="54" column="48" selection-start="1604" selection-end="1604" vertical-scroll-proportion="0.23966943">
+        <state line="2" column="36" selection-start="87" selection-end="87" vertical-scroll-proportion="0.09366391">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="65" selection-start="265" selection-end="499" vertical-scroll-proportion="0.2514793">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/elninja/gotaxi/GPSActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="27" selection-start="287" selection-end="287" vertical-scroll-proportion="0.29752067">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/elninja/gotaxi/GPSTracker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="93" column="42" selection-start="3629" selection-end="3629" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/elninja/gotaxi/AppInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="57" column="6" selection-start="1648" selection-end="1648" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/elninja/gotaxi/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="21" selection-start="956" selection-end="956" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="35" selection-start="180" selection-end="180" vertical-scroll-proportion="0.14049587">
+          <folding />
         </state>
       </provider>
     </entry>

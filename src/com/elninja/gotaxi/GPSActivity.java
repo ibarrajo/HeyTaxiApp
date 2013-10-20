@@ -14,6 +14,8 @@ public class GPSActivity extends Activity {
 
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        setContentView(R.layout.gps_activity);
+
 
 
         btnShowLocation = (Button) findViewById(R.id.btnShowLocation);
